@@ -23,3 +23,7 @@ To analyse the current mood of the user we used an API 'face_classification' whi
 Python CGI is used to host the project in the form of a website.
 An input to our project is given by feeding an image clicked through webcam.
 
+# PREVIEW
+![Example 1](/Screenshots/mood1.png)
+![Example 2](/Screenshots/mood2.png)
+![Example 3](/Screenshots/mood3.png)
