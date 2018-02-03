@@ -1,4 +1,14 @@
 # MoodHymns
+# Team Members
+[Rishabh Mishra](https://github.com/rishabh325)
+
+[Akshay Sharma](https://github.com/akshay31057)
+
+[Deepanshu Gupta](https://github.com/deecoders)
+
+[Souvik Paul](https://github.com/FLYSKY12)
+
+
 # ABSTRACT
 Our project basically deals with the the creation of an automatically generated playlist based on the facial expressions of the user as music plays a very important role in human daily life. The difficulties in the creation of large playlists and time required to search a song based on the current mood can be overcome here. This Music Website itself selects songs according to the current mood/facial expressions of the user.
 This project basically allows user to browse songs of a particular type by depicting the facial expressions of the desired type.
